@@ -26,7 +26,6 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-<<<<<<< HEAD
     cookiecutter https://github.com/drivendata/cookiecutter-data-science
 
 
@@ -97,8 +96,3 @@ We welcome contributions! [See the docs for guidelines](https://drivendata.githu
 ------------
 
     py.test tests
-=======
-```bash
-$ cookiecutter https://github.com/chen-bowen/cookiecutter-ds-python
-```
->>>>>>> dff52bc44bff5cf9a1c385b11c17341dccf393ce
