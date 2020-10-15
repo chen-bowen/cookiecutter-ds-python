@@ -2,11 +2,8 @@ docs/site/
 
 # OSX Junk
 .DS_Store
-<<<<<<< HEAD
 
 # test cache
 .cache/*
 tests/__pycache__/*
 *.pytest_cache/
-=======
->>>>>>> dff52bc44bff5cf9a1c385b11c17341dccf393ce
