@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 mkdocs
 mkdocs-cinder
+=======
+>>>>>>> dff52bc44bff5cf9a1c385b11c17341dccf393ce
 cookiecutter
 pytest
